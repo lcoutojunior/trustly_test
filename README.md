@@ -1,0 +1,1 @@
+API Desenvolvida para Teste na Trustly.
